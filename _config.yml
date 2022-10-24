@@ -26,7 +26,7 @@ title                    : "Contextual Bandit"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Contextual Bandit"
-description              : "Portfolio website"
+description              : "Website for publishing interesting experiments"
 url                      : "https://contextualbandit.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "contextualbandit/contextualbandit.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
