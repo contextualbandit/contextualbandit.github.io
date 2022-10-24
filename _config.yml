@@ -99,26 +99,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander Van de Kleut"
+  name             : "Karthick Raja"
   avatar           : #"assets/config/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Showcasing fun ideas and projects in computer science and machine learning!"
-  location         : "University of Waterloo"
-  email            : avandekleut@uwaterloo.ca
+  bio              : "Data scientist"
+  location         : "Indian institute of science, Bangalore"
+  email            : karthick11b36@gmail.com
   home             : true
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/avandekleut"
+      url: "https://github.com/karthickrajas"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/avandekleut/"
+      url: "https://www.linkedin.com/in/karthickrajas/"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/avandekleut"
+      url: "https://github.com/karthickrajas"
 
 # Reading Files
 include:
