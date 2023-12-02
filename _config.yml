@@ -26,7 +26,7 @@ title                    : "Contextual Bandit"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Contextual Bandit"
-description              : "Website for publishing interesting experiments"
+description              : "Blog for ML and AI"
 url                      : "https://contextualbandit.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "contextualbandit/contextualbandit.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -38,7 +38,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # "avandekleut-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # "https-contextualbandit-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -103,7 +103,7 @@ author:
   avatar           : #"assets/config/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data scientist"
   location         : "Indian institute of science, Bangalore"
-  email            : karthick11b36@gmail.com
+  email            : contextualbandit@gmail.com
   home             : true
   links:
     - label: "GitHub"
