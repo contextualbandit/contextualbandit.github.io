@@ -99,7 +99,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Karthick Raja"
+  name             : "Karthick"
   avatar           : #"assets/config/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data scientist"
   location         : "Indian institute of science, Bangalore"
